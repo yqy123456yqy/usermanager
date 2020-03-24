@@ -6,4 +6,6 @@ public class HelloController {
 	
 	 public void test1(){}
 
+    public void test2(){}
+
 }
